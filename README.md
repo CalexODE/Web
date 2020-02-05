@@ -5,8 +5,9 @@ Cada pasta representa um projeto isolado
 
 ## Projetos em ordem de complexidade
 ```
-1º Projeto Notícias Cidade(Em Produção)
-2º Projeto TechBlog
-3º Projeto Anna Bela
-4º Projeto UNES
+1º Projeto Chalé Hotel
+2º Projeto Notícias Cidade
+3º Projeto TechBlog
+4º Projeto Anna Bela
+5º Projeto UNES
 ```
